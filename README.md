@@ -2,12 +2,12 @@
 
 
 
-- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about everything!
 - 📫 How to reach me: caiopsilv@gmail.com
 - 🔭 2020 goals: Learn JavaScript
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music!
+- ⚡ Another fun fact:  Yeah, I do know that HTML is not a programming language :P
 ---
 
 ### - Languages and Tools...
@@ -28,8 +28,21 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse.png" alt="eclipse" style="vertical-align:top; margin:4px">
 
 ---
-
 </p>
+### - I'm currently...
+- Adding JavaScript to my skill set.
+- Learning Python.
+- Improving all of my skills.
+
+---
+### - Let's connect and chat!
+
+<p align="center">
+  <a href=""><img src="https://github.com/Quadrifhttps://www.linkedin.com/in/caio-silva-5a9b21178/ied/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> 
+</p>
+---
+
+
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
