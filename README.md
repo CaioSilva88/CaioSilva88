@@ -8,6 +8,7 @@
 - 🔭 2020 goals: Learn JavaScript
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music!
+### - Languages and Tools...
 
 <p align="center">
 
