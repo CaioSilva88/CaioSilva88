@@ -42,9 +42,9 @@
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/caio-silva-5a9b21178/"><img src="http://simpleicons.org/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> 
-  <a href="https://api.whatsapp.com/send?phone=+11999883253"><img src="http://simpleicons.org/icons/whatsapp.svg" width="30px" alt="LinkedIn"></a> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-silva-5a9b21178/"><img src="http://simpleicons.org/icons/linkedin.svg" width="60px" height="60px" padding="30px" alt="LinkedIn"></a> 
+  <a href="https://api.whatsapp.com/send?phone=+11999883253"><img src="http://simpleicons.org/icons/whatsapp.svg" width="60px" height="60px" alt="LinkedIn"></a> 
 
 </p>
 ---
