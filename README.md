@@ -8,6 +8,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music!
 
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+</details>
+
 <!--
 **CaioSilva88/CaioSilva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
