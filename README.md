@@ -37,9 +37,9 @@
 ---
 </p>
 ### - I'm currently...
-<p align="center">
-- Adding JavaScript to my skill set.
-- Learning Python.
+<p align="left">
+- Adding JavaScript to my skill set.<br>
+- Learning Python.<br>
 - Improving all of my skills.
   </p>
 
