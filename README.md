@@ -9,11 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music!
 
-
-![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
-
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -33,10 +28,18 @@
 
 </p>
 
-
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 </details>
+
+![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
+
+
+
+
+
 
 <!--
 **CaioSilva88/CaioSilva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
