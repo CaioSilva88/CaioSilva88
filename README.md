@@ -18,9 +18,9 @@
   
   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="60" height="60" style="padding:10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg" alt="c" width="60" height="60"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="60" height="60"/>
