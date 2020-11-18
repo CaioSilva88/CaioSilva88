@@ -52,13 +52,12 @@
 
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Things to know about my profile! </b> <i>(click to expand!)</i> </summary>
   
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
 </details>
-https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg
 
 
 
