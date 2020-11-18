@@ -41,7 +41,7 @@
 ### - Let's connect and chat!
 
 <p align="center">
-  <a href="http://simpleicons.org/icons/linkedin.svg"><img src="http://simpleicons.org/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> 
+  <a href="https://www.linkedin.com/in/caio-silva-5a9b21178/"><img src="http://simpleicons.org/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> 
 </p>
 ---
 
