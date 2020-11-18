@@ -2,7 +2,19 @@
 
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
+
+<p align="center">
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+---
+
+</p>
 
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about everything!
