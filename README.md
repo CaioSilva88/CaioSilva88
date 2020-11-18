@@ -37,9 +37,11 @@
 ---
 </p>
 ### - I'm currently...
+<p align="center">
 - Adding JavaScript to my skill set.
 - Learning Python.
 - Improving all of my skills.
+  </p>
 
 ---
 ### - Let's connect and chat!
