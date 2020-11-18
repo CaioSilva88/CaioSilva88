@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about everything!
+- 📫 How to reach me: caiopsilv@gmail.com
+- 🔭 2020 goals: Learn JavaScript
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love music!
+
+
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
@@ -22,13 +32,6 @@
 ---
 
 </p>
-
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about everything!
-- 📫 How to reach me: caiopsilv@gmail.com
-- 🔭 2020 goals: Learn JavaScript
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love music!
 
 
 <details>
