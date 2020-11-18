@@ -30,11 +30,12 @@
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-</details>
-
+  
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva88&layout=compact)
+</details>
+
 
 
 
