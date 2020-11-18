@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Caio's github stats](https://github-readme-stats.vercel.app/api?username=CaioSilva88&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about everything!
