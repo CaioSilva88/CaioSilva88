@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="60" height="60"/>
   <img src="http://simpleicons.org/icons/visualstudiocode.svg" alt="js" width="40" height="40"/>
@@ -67,7 +67,7 @@
 <!--
 **CaioSilva88/CaioSilva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+  https://devicons.github.io/devicon/devicon.git/icons/java/java-plain.svg
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="python" style="vertical-align:top; margin:4px">
