@@ -1,11 +1,10 @@
-### Hi there 👋
+### Bem vindo(a) 👋
 
 
 
-- 💬 Ask me about everything!
-- 📫 How to reach me: caiopsilv@gmail.com
-- 🔭 2022 goals: Learn Cloud!
-- ⚡ Fun fact: I love music!
+- 💬 Atualmente trabalhando com JAVA e COBOL!
+- 📫 Como entrar em contato: caiopsilv@gmail.com
+- 🔭 Metas para 2022: Aprender Cloud!
 ---
 
 ### - Languages and Tools...
@@ -27,12 +26,11 @@
 
 ---
 
-### - I'm currently
+### - Atualmente
 
 <p align="left">
-- Adding JavaScript to my skill set.<br>
-- Learning Python.<br>
-- Improving all of my skills.
+- Aprendendo CLOUD.<br>
+- Melhorando minhas skills em JAVA.<br>  
   </p>
 
 ---
