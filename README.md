@@ -4,10 +4,8 @@
 
 - 💬 Ask me about everything!
 - 📫 How to reach me: caiopsilv@gmail.com
-- 🔭 2020 goals: Learn JavaScript
-- 😄 Pronouns: He/Him
+- 🔭 2022 goals: Learn Cloud!
 - ⚡ Fun fact: I love music!
-- ⚡ Another fun fact:  Yeah, I do know that HTML is not a programming language :P
 ---
 
 ### - Languages and Tools...
