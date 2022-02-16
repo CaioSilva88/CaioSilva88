@@ -7,7 +7,7 @@
 - 🔭 Metas para 2022: Aprender Cloud !
 ---
 
-### - Languages and Tools...
+### - Languages and Tools... 
 
 <p align="left">
 
