@@ -4,7 +4,7 @@
 
 - 💬 Atualmente trabalhando com JAVA e COBOL!
 - 📫 Como entrar em contato: caiopsilv@gmail.com
-- 🔭 Metas para 2022: Aprender Cloud !
+- 🔭 Metas para 2022: Aprender Cloud!
 ---
 
 ### - Languages and Tools... 
