@@ -26,7 +26,7 @@
 
 ---
 
-### - Atualmente
+### - Atualmente 
 
 <p align="left">
 - Aprendendo CLOUD.<br>
